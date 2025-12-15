@@ -1,5 +1,7 @@
 # elcord
 
+## Updated to work with snap version of discord and extra icons
+
 [![MELPA](https://melpa.org/packages/elcord-badge.svg)](https://melpa.org/#/elcord)
 
 ![](images/elcord-preview.png)
